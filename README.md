@@ -6,9 +6,6 @@ A DevOps Enthusiast 🔭🌩️
 
 <p align="center">
    
-  <a href="https://github.com/malikparvez">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikparvez&theme=gruvbox" />
-  </a>
   
   </br>
   

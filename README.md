@@ -1,7 +1,6 @@
 ### Hi there, I'm Parvez 👋
 
 A DevOps Enthusiast 🔭🌩️
-[![An image of @malikparvez's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/malikparvez)](https://holopin.io/@malikparvez)
 
 <h2 align="center">--- Github Stats ---</h2>
 
@@ -25,5 +24,8 @@ A DevOps Enthusiast 🔭🌩️
   <a href="https://github.com/malikparvez">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=malikparvez&theme=gruvbox">
   </a>
+
+  [![An image of @malikparvez's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/malikparvez)](https://holopin.io/@malikparvez)
+
 
 </p>
